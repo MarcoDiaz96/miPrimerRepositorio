@@ -1,0 +1,77 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+#divGeneral{
+   
+    width: 100%;
+    height: 100%;
+    padding: .5%;
+}
+#divCabecera{
+    text-align:right;
+    width: 99%;
+    height: 24%;
+}
+#divCuerpo{
+    
+    width: 99%;
+    height: 59%;
+}
+#divFooter{
+   
+    width: 99%;
+    height: 14%;
+}
+#dcIzquierda{
+    float: left;
+    width: 70%;
+    height: 100%;
+  
+}
+#dcIzquierda img{
+    width: 30%;
+    height: 100%;
+    float: right;
+}
+#dcDerecha{
+    float: right;
+    width: 28%;
+    height: 100%;
+    text-align: center;
+    
+}
+#dcDerecha img{
+    text-align: left;
+    width: 35%;
+    height: 100%;
+}
+.numeros{
+    width: 40px;
+    min-width: 30px;
+    max-width: 100px;
+}
+#datosPersonales{
+    width: 100%;
+    height: fit-content;
+   
+}
+#referencias{
+    width: 100%;
+    height: fit-content;
+   
+}
+#historialMascotas{
+    width: 100%;
+    height: fit-content;
+    
+}
+#razonesAdoptar{
+    width: 100%;
+    height: fit-content;
+    
+}
+
+#body{
+    background-image : url(https://img.freepik.com/vector-premium/salon-aseo-ilustracion-patron-transparente-vector-perros-fondo-animal-tienda-mascotas_682999-74.jpg);
+}
